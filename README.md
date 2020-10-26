@@ -9,7 +9,6 @@ Screenshots:
 This extension is not completely made by me, it's just modified by me.
 
 How to install :-
-
 1. Download the repository.
 2. Go to you chrome extension page.
 3. Turn on developer mode.
