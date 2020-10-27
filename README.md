@@ -1,4 +1,4 @@
-#### An extension to show you how much time YOU HAVE WASTED! (yay!)
+An extension to show you how much time YOU HAVE WASTED! (yay!)
 
 ### Screenshots: 
 
@@ -16,4 +16,4 @@
 5. Drag the downloaded zip file in that tab.
 
 
-### Real Extension - [Time is Running](https://chrome.google.com/webstore/detail/time-is-running/ijnaleaamhgpjmpmjefcnkkjjckbidnf?hl=en)
+#### Real Extension - [Time is Running](https://chrome.google.com/webstore/detail/time-is-running/ijnaleaamhgpjmpmjefcnkkjjckbidnf?hl=en)
