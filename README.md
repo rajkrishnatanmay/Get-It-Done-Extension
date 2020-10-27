@@ -1,4 +1,4 @@
-An extension to show you how much time YOU HAVE WASTED! (yay!)
+#### An extension to show you how much time YOU HAVE WASTED! (yay!)
 
 ### Screenshots: 
 
