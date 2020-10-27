@@ -8,7 +8,7 @@ Screenshots:
 
 This extension is not completely made by me, it's just modified by me.
 
-How to install :-
+### How to install :-
 1. Download the repository.
 2. Extract the downloaded zip.
 3. Go to you chrome extension page.
