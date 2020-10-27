@@ -1,12 +1,12 @@
 An extension to show you how much time YOU HAVE WASTED! (yay!)
 
-Screenshots: 
+### Screenshots: 
 
 ![](chrome_dpvhNh16Np.jpg)
 
 ![](chrome_eB6I2GIlDK.jpg)
 
-This extension is not completely made by me, it's just modified by me.
+###### This extension is not completely made by me, it's just modified by me.
 
 ### How to install :-
 1. Download the repository.
